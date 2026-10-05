@@ -1,0 +1,8 @@
+# Generated files and dependencies
+node_modules/
+.next/
+out/
+build/
+coverage/
+next-env.d.ts
+*.tsbuildinfo
